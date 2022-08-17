@@ -4,3 +4,6 @@
 [submodule "pcb/keyswitch-kicad-library"]
 	path = pcb/keyswitch-kicad-library
 	url = https://github.com/perigoso/keyswitch-kicad-library
+[submodule "pcb/MX_Alps_Hybrid.pretty"]
+	path = pcb/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
