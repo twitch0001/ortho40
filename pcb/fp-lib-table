@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints")(options "")(descr ""))
+)
