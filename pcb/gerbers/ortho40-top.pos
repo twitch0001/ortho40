@@ -1,0 +1,55 @@
+### Module positions - created on Mon Aug 22 14:52:33 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+MX1       MX-NoLED  MX-1U-NoLED                        50.0000   -30.0000    0.0000  top
+MX2       MX-NoLED  MX-1U-NoLED                        70.0000   -30.0000    0.0000  top
+MX3       MX-NoLED  MX-1U-NoLED                        90.0000   -30.0000    0.0000  top
+MX4       MX-NoLED  MX-1U-NoLED                       110.0000   -30.0000    0.0000  top
+MX5       MX-NoLED  MX-1U-NoLED                       130.0000   -30.0000    0.0000  top
+MX6       MX-NoLED  MX-1U-NoLED                       150.0000   -30.0000    0.0000  top
+MX7       MX-NoLED  MX-1U-NoLED                       210.0000   -30.0000    0.0000  top
+MX8       MX-NoLED  MX-1U-NoLED                       230.0000   -30.0000    0.0000  top
+MX9       MX-NoLED  MX-1U-NoLED                       250.0000   -30.0000    0.0000  top
+MX10      MX-NoLED  MX-1U-NoLED                       270.0000   -30.0000    0.0000  top
+MX11      MX-NoLED  MX-1U-NoLED                       290.0000   -30.0000    0.0000  top
+MX12      MX-NoLED  MX-1U-NoLED                       310.0000   -30.0000    0.0000  top
+MX13      MX-NoLED  MX-1U-NoLED                        50.0000   -50.0000    0.0000  top
+MX14      MX-NoLED  MX-1U-NoLED                        70.0000   -50.0000    0.0000  top
+MX15      MX-NoLED  MX-1U-NoLED                        90.0000   -50.0000    0.0000  top
+MX16      MX-NoLED  MX-1U-NoLED                       110.0000   -50.0000    0.0000  top
+MX17      MX-NoLED  MX-1U-NoLED                       130.0000   -50.0000    0.0000  top
+MX18      MX-NoLED  MX-1U-NoLED                       150.0000   -50.0000    0.0000  top
+MX19      MX-NoLED  MX-1U-NoLED                       210.0000   -50.0000    0.0000  top
+MX20      MX-NoLED  MX-1U-NoLED                       230.0000   -50.0000    0.0000  top
+MX21      MX-NoLED  MX-1U-NoLED                       250.0000   -50.0000    0.0000  top
+MX22      MX-NoLED  MX-1U-NoLED                       270.0000   -50.0000    0.0000  top
+MX23      MX-NoLED  MX-1U-NoLED                       290.0000   -50.0000    0.0000  top
+MX24      MX-NoLED  MX-1U-NoLED                       310.0000   -50.0000    0.0000  top
+MX25      MX-NoLED  MX-1U-NoLED                        50.0000   -70.0000    0.0000  top
+MX26      MX-NoLED  MX-1U-NoLED                        70.0000   -70.0000    0.0000  top
+MX27      MX-NoLED  MX-1U-NoLED                        90.0000   -70.0000    0.0000  top
+MX28      MX-NoLED  MX-1U-NoLED                       110.0000   -70.0000    0.0000  top
+MX29      MX-NoLED  MX-1U-NoLED                       130.0000   -70.0000    0.0000  top
+MX30      MX-NoLED  MX-1U-NoLED                       150.0000   -70.0000    0.0000  top
+MX31      MX-NoLED  MX-1U-NoLED                       210.0000   -70.0000    0.0000  top
+MX32      MX-NoLED  MX-1U-NoLED                       230.0000   -70.0000    0.0000  top
+MX33      MX-NoLED  MX-1U-NoLED                       250.0000   -70.0000    0.0000  top
+MX34      MX-NoLED  MX-1U-NoLED                       270.0000   -70.0000    0.0000  top
+MX35      MX-NoLED  MX-1U-NoLED                       290.0000   -70.0000    0.0000  top
+MX36      MX-NoLED  MX-1U-NoLED                       310.0000   -70.0000    0.0000  top
+MX37      MX-NoLED  MX-1U-NoLED                        50.0000   -90.0000    0.0000  top
+MX38      MX-NoLED  MX-1U-NoLED                        70.0000   -90.0000    0.0000  top
+MX39      MX-NoLED  MX-1U-NoLED                        90.0000   -90.0000    0.0000  top
+MX40      MX-NoLED  MX-1U-NoLED                       110.0000   -90.0000    0.0000  top
+MX41      MX-NoLED  MX-1U-NoLED                       130.0000   -90.0000    0.0000  top
+MX42      MX-NoLED  MX-1U-NoLED                       150.0000   -90.0000    0.0000  top
+MX43      MX-NoLED  MX-1U-NoLED                       210.0000   -90.0000    0.0000  top
+MX44      MX-NoLED  MX-1U-NoLED                       230.0000   -90.0000    0.0000  top
+MX45      MX-NoLED  MX-1U-NoLED                       250.0000   -90.0000    0.0000  top
+MX46      MX-NoLED  MX-1U-NoLED                       270.0000   -90.0000    0.0000  top
+MX47      MX-NoLED  MX-1U-NoLED                       290.0000   -90.0000    0.0000  top
+MX48      MX-NoLED  MX-1U-NoLED                       310.0000   -90.0000    0.0000  top
+SW1       SW_Push   PinHeader_1x02_P2.54mm_Vertical   192.0000   -25.0000  -90.0000  top
+## End
