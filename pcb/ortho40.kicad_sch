@@ -4792,7 +4792,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c249f1eb-4c53-40ab-98d5-ebdd7381c9b3))
-    (pin "10" (uuid 231f10f4-bd43-420a-9bea-61c32d8bc1cf))
+    (pin "10" (uuid 96691c30-6aa1-4d24-b138-f5cc08dbb7a3))
     (pin "2" (uuid 9e521d3b-2a76-4f98-b322-0be1814d3a79))
     (pin "3" (uuid 9731a4ff-1df7-4118-93fe-6d30e54e38df))
     (pin "4" (uuid aea38e77-f6d7-4c1d-81d3-404fa79e4326))
@@ -4800,7 +4800,7 @@
     (pin "6" (uuid 4b078ea1-fc30-4e1c-a2ce-ed7d66f193eb))
     (pin "7" (uuid 7a9e46be-75aa-44f4-bb2d-8e119d956b5c))
     (pin "8" (uuid 887e9600-5dc6-464f-a7f7-ffb667db79c2))
-    (pin "9" (uuid fc6fc00c-1864-4740-a211-23a8d39760e6))
+    (pin "9" (uuid 190f9d3c-c220-44cf-be4a-d44a47adf992))
   )
 
   (symbol (lib_id "Device:R_Small") (at 149.098 123.444 90) (unit 1)

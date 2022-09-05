@@ -3,4 +3,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "Sleep-lib")(type "KiCad")(uri "${KIPRJMOD}/Sleep-lib/Sleep-lib.kicad_sym")(options "")(descr ""))
   (lib (name "kicub_keyboard_extras")(type "KiCad")(uri "${KIPRJMOD}/Libraries/sporewoh-keyboard-extras/kicub_keyboard_extras.kicad_sym")(options "")(descr ""))
+  (lib (name "DFR0928")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints/DFR0928.kicad_sym")(options "")(descr ""))
 )
