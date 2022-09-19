@@ -6595,8 +6595,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f037e8ae-b9e9-4cd6-86ad-07d55b362385)
     (property "Reference" "SW1" (id 0) (at 132.588 115.57 0))
-    (property "Value" "SW_Push" (id 1) (at 132.588 118.11 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KXT3" (id 2) (at 132.588 118.364 0)
+    (property "Value" "BOOTSEL" (id 1) (at 132.588 118.11 0))
+    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 132.588 118.364 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 132.588 118.364 0)
@@ -7153,7 +7153,7 @@
       (reference "R7") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/f037e8ae-b9e9-4cd6-86ad-07d55b362385"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_KXT3")
+      (reference "SW1") (unit 1) (value "BOOTSEL") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
     )
     (path "/912c4917-ada4-4990-9da6-1eac395cf218"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Footprints:RP2040-QFN-56")
